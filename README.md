@@ -17,13 +17,13 @@ Whether you're a developer, student, or just someone who loves simple tools that
 
 ## 🌐 Try the Tools Now
 
-👉 **[Visit Fireward Tools →](https://firewardgames.com?utm_source=github&utm_campaign=readme&utm_medium=referral)**
+👉 **[Visit Fireward Tools →](https://www.firewardgames.com)**
 
 ---
 
 ## 📌 Why Fireward Tools?
 
-- 🔧 No fluff. Just tools that work.
+- 🔧 No excessive ANYTHING. Just tools that work.
 - 📱 Mobile-friendly design.
 - 🔒 No logins. No data tracking.
 - 🚧 Constant updates and new features.
@@ -32,17 +32,6 @@ Whether you're a developer, student, or just someone who loves simple tools that
 
 ## 💬 Want a Tool Built?
 
-Open an [issue](https://github.com/thefirewarder/fireward-tools/issues) or submit a feature request!  
-We take community feedback seriously.
-
+All you have to do is go to **(https://www.firewardgames.com)**, open the chat bubble, and tell me what kind of tool you'd like to see next!
 ---
-
-## 🧪 Coming Soon
-
-- 🔒 Password Strength Checker  
-- 🧮 Equation Solver  
-- 📝 Word Counter  
-
----
-
-**Made with 🔥 by [The Firewarder](https://firewardgames.com?utm_source=github&utm_campaign=readme&utm_medium=referral)**  
+##Made by Thefirewarder
